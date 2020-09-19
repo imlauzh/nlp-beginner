@@ -1,0 +1,6 @@
+__*
+cnews.*
+seg.*
+best_validation.*
+checkpoint
+*.m
